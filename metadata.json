@@ -1,0 +1,6 @@
+{
+  "name": "CampusPortal",
+  "description": "Student dashboard featuring login key access, grades, attendance, class schedules, security questions, 2FA and a personalized Gemini AI Study Help chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
